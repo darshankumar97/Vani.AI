@@ -228,16 +228,7 @@ If model files are missing, the backend enters an **offline simulation mode** an
 - Add security, authentication, rate limiting, and production-grade deployment manifests.
 - Extend normalization and G2P rules to support additional Indian languages and transliteration systems.
 
----
 
-## Notes for Technical Reviewers
-
-- The repository combines a modern React/Vite UI with both Node and Python backend patterns.
-- It demonstrates architecture-level thinking: API gateway, model readiness detection, cache management, and telemetry.
-- The Python backend is designed to run offline and fall back to synthetic output when model assets are unavailable, preserving a complete end-to-end experience.
-- The project is ideal for portfolio showcase, placement interviews, and academic evaluation because it documents both the implementation and the engineering trade-offs.
-
----
 
 ## Screenshot Placeholders
 
