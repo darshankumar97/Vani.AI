@@ -241,11 +241,8 @@ If model files are missing, the backend enters an **offline simulation mode** an
 
 ## Screenshot Placeholders
 
-![Screenshot: TTS Playground](docs/screenshots/tts-playground.png)
+<img width="1861" height="876" alt="image" src="https://github.com/user-attachments/assets/a2d2bb5a-803e-4d50-9be2-524329f1e455" />
 
-![Screenshot: Architecture View](docs/screenshots/architecture-graph.png)
-
-![Screenshot: AI Assistant](docs/screenshots/ai-assistant.png)
 
 ---
 
