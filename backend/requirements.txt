@@ -1,0 +1,21 @@
+# FastAPI Framework & ASGI engine
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+pydantic>=2.0
+pydantic-settings>=2.0
+
+# Scientific computation, PyTorch, & Wave handling
+numpy>=1.22.0
+scipy>=1.10.0
+torch>=2.0.0
+
+# Coqui deep learning synthesis pipeline (optional for CPU/GPU compilation)
+# Note: On CPU fallback emulation, numpy and wave handle synthetic DSP harmonizers automatically
+TTS>=0.21.0
+
+# Dynamic Audio transcoders (optional based on local ffmpeg installs)
+pydub>=0.25.1
+
+# Utilities
+python-multipart>=0.0.6
+requests>=2.31.0

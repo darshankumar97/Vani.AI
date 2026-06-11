@@ -1,0 +1,6 @@
+{
+  "name": "Multilingual TTS Architecture & Sandbox",
+  "description": "An interactive planning playground and production blueprint for an offline-capable open-source multi-lingual TTS system supporting Voice Cloning, Pitch, and Speed controls across English, Hindi, Kannada, and Telugu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
